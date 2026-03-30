@@ -1,0 +1,11 @@
+.gradle/
+.gradle-user-home/
+build/
+out/
+*.iml
+.idea/
+gradle-8.13/
+gradle-8.13-bin.zip
+jdk-21.0.10+7/
+temurin-jdk21.zip
+USAGE.md
